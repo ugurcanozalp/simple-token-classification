@@ -1,0 +1,7 @@
+pytorch-lightning>=1.4.8
+torch>=1.10.0
+transformers>=4.11.3
+nltk==3.6.5
+seqeval==1.2.2
+onnx==1.10.2
+onnxruntime==1.9.0

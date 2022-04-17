@@ -4,6 +4,5 @@ lightning_logs/
 checkpoints/
 ignore/
 data/
-training/
 deployment/
 trash/
